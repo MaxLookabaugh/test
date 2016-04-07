@@ -22,3 +22,30 @@
 |------------------|--------------------------------------------------------| 
 | Test Pass?       | Pass/Fail                                              |
 |Notes and Issues: |________________________________________________________|                          
+
+
+
+|               |               |
+| ------------- |:-------------:|
+| use case Id   | 03                                             |
+| Use case name |  Mech Movement Methods                         |
+| Description   | Player moves by running, jumping, and walking  |
+
+|                   |                                 |
+|-------------------|:-------------------------------:|
+| Users:            | Players:                        |
+| Preconditions:    | Player is in a game in progress |
+| Postconditions:   | Players’ mech has moved         |
+| Frequency of use: | Often                           |
+|
+
+| Flow of Events:  | Actor Action               | System Response               | Comments         |
+|------------------|----------------------------|-------------------------------|------------------| 
+|                  | Click on your mech         |                               |                  |
+|                  | Mech is highlighted        |                               |                  |
+|                 |
+
+|                  |                                                        |
+|------------------|--------------------------------------------------------| 
+| Test Pass?       | Pass/Fail                                              |
+|Notes and Issues: |________________________________________________________|                          
