@@ -6,7 +6,7 @@
 | Use case name | Read the Rules                                     |
 | Description   | Player can log in and read the rules of the game.  |
 
- 
+|------------------|----------------------------|
 | Users            | Players                    |
 | Preconditions    | Player must have an account|
 | Postconditions   | Player finds the Rules page|
