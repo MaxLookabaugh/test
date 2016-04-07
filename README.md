@@ -1,10 +1,10 @@
 # test
 
-|               |               |
-| ------------- |:-------------:|
-| use case Id   | 01                                                 |
-| Use case name | Read the Rules                                     |
-| Description   | Player can log in and read the rules of the game.  |
+|                |               |
+| -------------- |:-------------:|
+| Use case Id:   | 01                                                 |
+| Use case name: | Read the Rules                                     |
+| Description:   | Player can log in and read the rules of the game.  |
 
 |                  |                            |
 |------------------|:--------------------------:|
