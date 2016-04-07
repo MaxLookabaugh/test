@@ -16,5 +16,6 @@
 |------------------|----------------------------|-------------------------------|------------------| 
 |                  | Log in                     | System displays login         |                  |
 |                  | Click on Quick Start       | Quick Start Guide is on screen|                  |
+
 | Test Pass?       | Pass/Fail                  |
-|Notes and Issues: |                           
+|Notes and Issues: |                            |                          
