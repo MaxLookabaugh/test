@@ -1,6 +1,6 @@
 # test
 
-|               | Are           | Cool  |
+|               |               |       |
 | ------------- |:-------------:| -----:|
 | use case Id   | 01                                                 |
 | Use case name | Read the Rules                                     |
@@ -11,7 +11,7 @@
 | Postconditions   | Player finds the Rules page|
 | Frequency of use | Occasional
 | Event Flow       | Actor Action               | System Response               | Comments         |
-|                  |                            |                               |                  |
+|------------------|----------------------------|-------------------------------|------------------|
 |                  | Log in                     | System displays login         |                  |
 |                  | Click on Quick Start       | Quick Start Guide is on screen|                  |
 | Test Pass?       | Pass/Fail                  |
